@@ -1,0 +1,22 @@
+<head>
+  <script src="{{ site.baseurl }}/assets/unity/{{page.unity_dir}}/TemplateData/UnityProgress.js"></script>
+  <script src="{{ site.baseurl }}/assets/unity/{{page.unity_dir}}/Build/UnityLoader.js"></script>
+  <script>
+    var unityInstance = UnityLoader.instantiate(
+      "unityContainer",
+      "{{ site.baseurl }}/assets/unity/{{page.unity_dir}}/Build/{{page.unity_dir}}.json",
+      { onProgress: UnityProgress }
+    );
+  </script>
+</head>
+<body>
+  <div class="extensions">
+    <div id="unityContainer" style="width: 100%; height: 560px"></div>
+  </div>
+  <div
+    class="button button--primary button--pill"
+    onclick="unityInstance.SetFullscreen(1)"
+  >
+    Full Screen
+  </div>
+</body>
