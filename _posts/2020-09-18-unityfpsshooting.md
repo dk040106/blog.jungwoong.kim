@@ -14,4 +14,3 @@ unity_dir: The Shooting Game
 # 게임
 
 <div>{%- include extensions/unity.html -%}</div>
-
