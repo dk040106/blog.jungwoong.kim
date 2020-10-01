@@ -5,6 +5,7 @@ tags:
   - 한글
   - 유니티
 unity_dir: The Shooting Game
+key: simple-unity-fps
 ---
 
 # 소개 영상
