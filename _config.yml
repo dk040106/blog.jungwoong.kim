@@ -128,7 +128,7 @@ comments:
   gitalk:
     clientID    : 11ec22d0e199e752f85d # GitHub Application Client ID
     clientSecret: 4788e8449a07c97b1bc475dfa4ea74d8923aa90c # GitHub Application Client Secret
-    repository  : https://github.com/dk040106/dk040106.github.io-gitalk-comments.git # GitHub repo for storing comments
+    repository  : dk040106.github.io-gitalk-comments # GitHub repo for storing comments
     owner       : dk040106 # GitHub repo owner
     admin: # GitHub repo owner and collaborators, only these guys can initialize GitHub issues, IT IS A LIST.
       - dk040106
