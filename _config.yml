@@ -24,7 +24,6 @@ title   : Jungwoong Kim
 description: > # this means to ignore newlines until "Language & timezone"
   Personal Blog
 
-
 ## => Language and Timezone
 ##############################
 lang: en # the language of your site, default as "en"
@@ -127,12 +126,12 @@ comments:
   ## Gitalk
   # please refer to https://github.com/gitalk/gitalk for more info.
   gitalk:
-    clientID    : # GitHub Application Client ID
-    clientSecret: # GitHub Application Client Secret
-    repository  : # GitHub repo
-    owner       : # GitHub repo owner
+    clientID    : 11ec22d0e199e752f85d # GitHub Application Client ID
+    clientSecret: 4788e8449a07c97b1bc475dfa4ea74d8923aa90c # GitHub Application Client Secret
+    repository  : https://github.com/dk040106/dk040106.github.io-gitalk-comments.git # GitHub repo for storing comments
+    owner       : dk040106 # GitHub repo owner
     admin: # GitHub repo owner and collaborators, only these guys can initialize GitHub issues, IT IS A LIST.
-      # - your GitHub Id
+      - dk040106
 
   ## Valine
   # please refer to https://valine.js.org/en/ for more info.
@@ -211,7 +210,7 @@ defaults:
       license: true
       aside:
         toc: true
-      show_edit_on_github: true
+      show_edit_on_github: false
       show_subscribe: true
       pageview: true
 
