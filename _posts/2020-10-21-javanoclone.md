@@ -1,6 +1,6 @@
 ---
 layout: article
-title: 2차원 배열에 .clone() 을 쓰면 안 된는 이유 (Java)
+title: 2차원 배열에 .clone() 을 쓰면 안 되는 이유 (Java)
 tags:
   - Java
   - 한글
