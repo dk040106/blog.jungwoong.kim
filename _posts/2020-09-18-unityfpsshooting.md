@@ -1,6 +1,6 @@
 ---
 layout: article
-title: 간단한 FPS 슈팅 게임 만들기
+title: 간단한 FPS 슈팅 게임
 tags:
   - 한글
   - 유니티
