@@ -3,7 +3,7 @@ layout: article
 title: 간단한 FPS 슈팅 게임
 tags:
   - 한글
-  - 유니티
+  - Unity
 unity_dir: The Shooting Game
 key: simple-unity-fps
 ---
