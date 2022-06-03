@@ -106,7 +106,7 @@ ko: &KO
   FOLLOW_US               : "[NAME]에서 팔로우하기"
   EMAIL_ME                : "이메일 보내기"
   EMAIL_US                : "이메일 보내기"
-  COPYRIGHT_DATES         : "2020"
+  COPYRIGHT_DATES         : "2022"
 
 ko-KR:
   <<: *KO

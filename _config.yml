@@ -35,7 +35,7 @@ timezone: Asia/Seoul # see https://en.wikipedia.org/wiki/List_of_tz_database_tim
 author:
   type      : person # "person" (default), "organization"
   name      : Jungwoong Kim
-  url       : jungwoongkim.live
+  url       : blog.jungwoong.kim
   avatar    : # path or url of avatar image (square)
   bio       : A person.
   email     : dk040106@naver.com
@@ -54,7 +54,7 @@ author:
 
 ## => GitHub Repository (if the site is hosted by GitHub)
 ##############################
-repository: dk040106/dk040106.github.io
+repository: dk040106/blog.jungwoong.kim
 repository_tree: master
 
 
