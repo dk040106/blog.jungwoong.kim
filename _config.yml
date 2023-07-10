@@ -83,7 +83,7 @@ toc:
 ## => Markdown Enhancements
 ##############################
 ## Mathjax
-mathjax: # false (default), true
+mathjax: true # false (default), true
 mathjax_autoNumber: # false (default), true
 
 ## Mermaid
@@ -172,8 +172,7 @@ analytics:
 
   ## Google Analytics
   google:
-    tracking_id : UA-178427056-1 # Google Analytics id for the site
-    anonymize_ip: false # Anonymize IP tracking for Analytics
+    tracking_id : G-99RPYKTLRE # Google Analytics id for the site
 
 
 ## => Build
